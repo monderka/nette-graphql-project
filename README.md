@@ -23,7 +23,8 @@ Without DOCKER you need:
 [ https://tracy.nette.org/ ]    
 [ https://contributte.org/packages/contributte/redis.html ]    
 [ https://contributte.org/packages/contributte/cache.html ]    
-[ https://github.com/monderka/jwt-parser ]
+[ https://github.com/monderka/jwt-parser ]    
+[ https://github.com/monderka/doctrine-tools ]
 
 ## Installation
 ```

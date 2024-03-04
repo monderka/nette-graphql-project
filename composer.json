@@ -31,7 +31,8 @@
         "contributte/cache": "^0.6.0",
         "nettrine/dbal": "^0.8.2",
         "nettrine/fixtures": "^0.7.2",
-        "monderka/jwt-parser": "^1.0"
+        "monderka/jwt-parser": "^1.0",
+        "monderka/doctrine-tools": "^1.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.51",
