@@ -1,0 +1,2 @@
+services:
+    - Monderka\JwtParser\WebTokenParser(%jwt%)
